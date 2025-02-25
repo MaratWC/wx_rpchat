@@ -16,4 +16,4 @@ What's new?
 
 ![image](https://github.com/nwvh/wx_rpchat/assets/76164598/2b9279b2-7b5e-4203-b15e-5ffe22935da9)
 
-> The V2 update has been HIGHLY inspired by the [mChat](https://codem.tebex.io/package/5614437)https://codem.tebex.io/package/5614437 design
+> The V2 update has been HIGHLY inspired by the [mChat](https://codem.tebex.io/package/5614437) design
